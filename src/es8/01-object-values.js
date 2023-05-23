@@ -1,0 +1,5 @@
+const countries = { MX: "Mexico", CO: "Colombia", CL: "Chile", PE: "Peru"}
+console.log(Object.values(countries));
+
+// EL OBJECT.VALUES SIRVE PARA CONVERTIR AL OBJETO EN ARRAY PERO SOLO DE SUS VALORES ESTO PERMITE UNA MEJOR
+// BUSQUEDA DE LOS ELEMENTOS COMO PARA .FILTER .MAP ETC
